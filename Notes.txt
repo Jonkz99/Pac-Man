@@ -9,4 +9,4 @@ när pacman har ätit alla pellets så är spelet slut.
 Lista:
 1. Window som kör pac-man.
 2. Måste skapa en värld med allt i.
-3.n
+3.nn
