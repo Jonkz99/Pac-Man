@@ -1,0 +1,12 @@
+Pac-man functions:
+Pac man äte pellets
+han blir jagad av spöken
+Det finns speciella pellets som får han snabb; Power up.
+Power ups gör så spöken springer ifrån pacman
+power ups gör att kan äta spöken
+när pacman har ätit alla pellets så är spelet slut.
+
+Lista:
+1. Window som kör pac-man.
+2. Måste skapa en värld med allt i.
+3.
